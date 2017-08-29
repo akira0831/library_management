@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+body{
+  background:url('../images/hkk.jpeg') no-repeat center;
+  background-size:cover;
+  font-size: 40px;
+  color:blue;
+}

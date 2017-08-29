@@ -1,0 +1,83 @@
+@charset "utf-8";
+.b{
+  background:url('../images/hkk.jpeg') no-repeat center;
+  background-size: cover;
+  font-size:13px;
+}
+
+img{
+border:0;
+}
+
+.lg{
+  width:468px;
+  height:468px;
+  margin:100px auto;
+  background:url('../images/login_bg.png') no-repeat;
+}
+
+.lg_top{
+  height:200px; width:468px;
+}
+
+.lg_main{
+  width:400px; height:180px; margin:0 25px;
+}
+
+.lg_m_1{
+width:290px;
+height:100px;
+padding:60px 55px 20px 55px;
+}
+
+.ur{
+  height:37px;
+  border:0;
+  color:#666;
+  width:236px;
+  margin:4px 28px;
+  background:url('../images/ur.png') no-repeat;
+  padding-left:10px;
+  font-size:16pt;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.pw{
+  height:37px;
+  border:0;
+  color:#666;
+  width:236px;
+  margin:4px 28px;
+  background:url('../images/pw.png') no-repeat;
+  padding-left:10px;
+  font-size:16pt;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+.pw2{
+  height:37px;
+  border:0;
+  color:red;
+  width:236px;
+  margin:4px 28px;
+  padding-left:25px;
+  font-size:10pt;
+}
+
+.bn{
+  width:330px;
+  height:72px;
+  background:url('../images/bn.png') no-repeat;
+  border:0;
+  display:block;
+  font-size:18px;
+  color:#FFF;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight:bolder;
+}
+
+.lg_foot{
+  height:80px;
+  width:330px;
+  padding: 6px 68px 0 68px;
+}
